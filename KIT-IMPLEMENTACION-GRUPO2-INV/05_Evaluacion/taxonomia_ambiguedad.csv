@@ -1,0 +1,9 @@
+codigo,categoria,definicion_operativa,ejemplos,regla
+VAG,Vaguedad,Término sin umbral o significado verificable,rápido; adecuado; fácil; suficiente,Contar una vez por expresión.
+POL,Polisemia,Palabra con dos o más significados plausibles en el contexto,soporte; proceso; estado,Contar si el requisito no resuelve el sentido.
+INC,Inconsistencia terminológica,Uso de sinónimos o etiquetas diferentes para el mismo concepto,reserva/turno/cita,Contar cada cambio que pueda crear entidades distintas.
+CUA,Cuantificador impreciso,Cantidad o frecuencia sin límite objetivo,varios; algunos; frecuentemente,No contar si el caso define el umbral.
+UNI,Universal no justificable,"Uso de siempre, nunca, todos o ninguno sin condición",siempre disponible,Contar si admite excepciones razonables.
+ACT,Actor indefinido,Actor ausente o genérico con más de una interpretación,el usuario; el encargado,No contar cuando el caso define un único actor posible.
+REF,Referencia ambigua,Pronombre o referencia con antecedente incierto,este; aquel; lo anterior,Contar cuando existan dos antecedentes posibles.
+ETC,Lista abierta,Enumeración que usa “etc.” o equivalentes,"correo, mensaje, etc.",Contar como un defecto por lista.

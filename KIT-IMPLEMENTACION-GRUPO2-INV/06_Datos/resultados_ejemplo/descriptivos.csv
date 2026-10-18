@@ -1,0 +1,5 @@
+,ambiguity_density_100,ambiguity_density_100,ambiguity_density_100,ambiguity_density_100,ambiguity_density_100,ambiguity_density_100,defect_free_pct,defect_free_pct,defect_free_pct,defect_free_pct,defect_free_pct,defect_free_pct,time_minutes,time_minutes,time_minutes,time_minutes,time_minutes,time_minutes,difficulty_1_5,difficulty_1_5,difficulty_1_5,difficulty_1_5,difficulty_1_5,difficulty_1_5
+,count,mean,median,std,min,max,count,mean,median,std,min,max,count,mean,median,std,min,max,count,mean,median,std,min,max
+treatment,,,,,,,,,,,,,,,,,,,,,,,,
+control,4,3.9064865627396674,3.7810168315113657,1.2372173929560153,2.6717557251908395,5.392156862745098,4,42.08333333333333,41.666666666666664,15.833333333333334,25.0,60.0,4,30.075000000000003,29.6,3.9575876490609776,26.1,35.0,4,2.75,2.5,0.9574271077563381,2,4
+experimental,4,1.4847421196076236,1.4347142283496186,0.6325757217094432,0.796812749003984,2.272727272727273,4,76.66666666666666,75.0,10.540925533894605,66.66666666666666,90.0,4,31.35,31.15,2.896549671592048,28.6,34.5,4,2.5,2.5,0.5773502691896257,2,3

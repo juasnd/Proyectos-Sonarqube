@@ -1,0 +1,12 @@
+GUÍA RÁPIDA DE EJECUCIÓN
+
+1. Realizar un piloto con 2 a 4 estudiantes externos a la muestra.
+2. Codificar participantes como P01, P02, ..., PNN.
+3. Aplicar consentimiento y encuesta de experiencia.
+4. Aleatorizar dentro de bloques de experiencia.
+5. Entregar el caso común y los materiales exclusivos de cada tratamiento.
+6. Ejecutar la tarea durante 35 minutos.
+7. Registrar tiempo, dificultad e incidentes.
+8. Anonimizar los documentos antes de evaluarlos.
+9. Aplicar la taxonomía con dos evaluadores independientes.
+10. Resolver desacuerdos, completar la plantilla de datos y ejecutar el análisis.

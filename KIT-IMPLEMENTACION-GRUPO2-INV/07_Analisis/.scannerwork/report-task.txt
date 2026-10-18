@@ -1,0 +1,6 @@
+projectKey=estudio-kit-analisis
+serverUrl=http://localhost:9000
+serverVersion=26.9.0.129388
+dashboardUrl=http://localhost:9000/dashboard?id=estudio-kit-analisis
+ceTaskId=6cfca061-a069-42cd-882f-f7176bd22e25
+ceTaskUrl=http://localhost:9000/api/ce/task?id=6cfca061-a069-42cd-882f-f7176bd22e25

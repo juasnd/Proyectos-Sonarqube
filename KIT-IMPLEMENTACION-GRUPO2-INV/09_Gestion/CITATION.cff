@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si utiliza este kit, cite a sus autores."
+title: "Kit experimental sobre ambigüedad léxica en requisitos funcionales"
+version: 1.0.0
+date-released: 2026-07-28
+authors:
+  - family-names: "Díaz Zumárraga"
+    given-names: "Jonathan Alexander"
+  - family-names: "Gutiérrez Vargas"
+    given-names: "Juan Felipe"
+  - family-names: "Padilla Triviño"
+    given-names: "Marco Adrián"

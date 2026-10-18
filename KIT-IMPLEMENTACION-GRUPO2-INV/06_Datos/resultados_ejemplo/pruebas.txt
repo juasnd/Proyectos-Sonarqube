@@ -1,0 +1,4 @@
+ambiguity_density_100: U=16.000; p=0.028571; delta_Cliff(experimental-control)=-1.000
+defect_free_pct: U=0.000; p=0.028571; delta_Cliff(experimental-control)=1.000
+time_minutes: U=6.000; p=0.685714; delta_Cliff(experimental-control)=0.250
+difficulty_1_5: U=9.000; p=0.874367; delta_Cliff(experimental-control)=-0.125

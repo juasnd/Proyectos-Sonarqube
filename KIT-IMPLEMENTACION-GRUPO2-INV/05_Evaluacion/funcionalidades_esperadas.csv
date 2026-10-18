@@ -1,0 +1,11 @@
+id,funcionalidad,criterio_minimo
+F01,Consultar disponibilidad,El requisito permite identificar actor/acción y resultado.
+F02,Crear reserva,El requisito permite identificar actor/acción y resultado.
+F03,Evitar conflicto,El requisito permite identificar actor/acción y resultado.
+F04,Confirmar o rechazar,El requisito permite identificar actor/acción y resultado.
+F05,Cancelar reserva,El requisito permite identificar actor/acción y resultado.
+F06,Notificar cambio,El requisito permite identificar actor/acción y resultado.
+F07,Bloquear por mantenimiento,El requisito permite identificar actor/acción y resultado.
+F08,Consultar reservas propias,El requisito permite identificar actor/acción y resultado.
+F09,Registrar asistencia,El requisito permite identificar actor/acción y resultado.
+F10,Generar resumen de uso,El requisito permite identificar actor/acción y resultado.
